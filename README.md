@@ -32,7 +32,7 @@ CakePlugin::loadAll(array(
 public $helpers = array('Typehead.requests');
 ```
 
-- load typehead
+- load typehead in your view
 
 ```php
 <?php echo $this->Requests->index(); ?>
