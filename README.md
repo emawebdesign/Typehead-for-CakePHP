@@ -13,7 +13,7 @@ https://twitter.github.io/typeahead.js/
 
 <h2>Installation</h2>
 
-- upload Typehead files in the /app/Plugin/Typehead/ folder
+- upload Typehead folders (Config, View and webroot) in the /app/Plugin/Typehead/ folder
 - activate the plugin in /app/Config/bootstrap.php
 
 ```php
